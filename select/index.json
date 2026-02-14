@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "一番の宝物 (Crow Ver.)",
+  "base_artist": "marina",
+  "createdAt": "2026-02-14T11:22:42.174678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一番の宝物 (Yui ver.)",
+      "artist": "Girls Dead Monster",
+      "has_synced": true,
+      "path": "select/01_一番の宝物_(Yui_ver.)_Girls_Dead_Monster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一番の宝物 (Yui version)",
+      "artist": "Girls Dead Monster",
+      "has_synced": true,
+      "path": "select/02_一番の宝物_(Yui_version)_Girls_Dead_Monster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一番の宝物",
+      "artist": "Tam",
+      "has_synced": false,
+      "path": "select/03_一番の宝物_Tam.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一番の宝物 (Yui ver.)",
+      "artist": "Lisa",
+      "has_synced": true,
+      "path": "select/04_一番の宝物_(Yui_ver.)_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "一番の宝物 (Yui final ver.)",
+      "artist": "Lisa",
+      "has_synced": true,
+      "path": "select/05_一番の宝物_(Yui_final_ver.)_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "一番の宝物",
+      "artist": "karuta",
+      "has_synced": true,
+      "path": "select/06_一番の宝物_karuta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "一番の宝物 (Yui ver",
+      "artist": "LiSA & Girls Dead Monster",
+      "has_synced": true,
+      "path": "select/07_一番の宝物_(Yui_ver_LiSA_&_Girls_Dead_Monster.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "一番の宝物 (Yui ver.)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/08_一番の宝物_(Yui_ver.)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "一番の宝物",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/09_一番の宝物_LiSA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "一番の宝物 (Yui ver.)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_一番の宝物_(Yui_ver.)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "一番の宝物 (Original Version)",
+      "artist": "karuta",
+      "has_synced": true,
+      "path": "select/11_一番の宝物_(Original_Version)_karuta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ichiban no Takaramono (一番の宝物) (My Most Precious Treasure) (Original Version)",
+      "artist": "karuta",
+      "has_synced": true,
+      "path": "select/12_Ichiban_no_Takaramono_(一番の宝物)_(My_Most_Precious_Treasure)_(Original_Version)_karuta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "一番の宝物 (D.watt Remix)",
+      "artist": "Girls Dead Monster",
+      "has_synced": false,
+      "path": "select/13_一番の宝物_(D.watt_Remix)_Girls_Dead_Monster.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "一番の宝物 (original version)",
+      "artist": "karuta",
+      "has_synced": true,
+      "path": "select/14_一番の宝物_(original_version)_karuta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "一番の宝物 (original version)",
+      "artist": "karuta",
+      "has_synced": false,
+      "path": "select/15_一番の宝物_(original_version)_karuta.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "一番の宝物 (original version)",
+      "artist": "Anant-Garde Eyes",
+      "has_synced": true,
+      "path": "select/16_一番の宝物_(original_version)_Anant-Garde_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "一番の宝物～Yui final ver.～",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/17_一番の宝物~Yui_final_ver.~_LiSA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一番の宝物 (Crow Ver.)",
+      "artist": "marina",
+      "has_synced": false,
+      "path": "select/pl_01_一番の宝物_(Crow_Ver.)_marina.txt"
+    }
+  ]
+}
